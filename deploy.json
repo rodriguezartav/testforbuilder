@@ -1,6 +1,6 @@
 {
+	"deploy": "WEB",
 	"apps": [
-		{"name": "a"},
-		{"name": "b"}
+		{"name": "singleApp", "folder":"test/a"}
 	]
 }
